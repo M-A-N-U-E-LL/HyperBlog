@@ -1,0 +1,9 @@
+una pequeña descripción para el proyecto de git, esta será modificada, empecemos
+
+Mi nombre es manuel
+Soy un desarrollador en proceso por que debo seguir estudiando y debo practicar mucho
+Fecha del proyecto
+28/06/2021
+
+
+Ahora sí, Empecemos

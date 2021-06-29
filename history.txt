@@ -7,3 +7,6 @@ Fecha del proyecto
 
 
 Ahora sí, Empecemos
+Hicimos nuestro primer commit
+Hicimos nuestro segundo commit
+Vamos por el tercer commit...

@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.c1 {
+	background-color: blue;
+	height: 200px;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	padding: 50px 0 20px 0;
+}
+div {
+	width: 300px;
+	display: flex;
+	justify-content: center;
+	margin: 20px auto;
+}
+a {
+	background-color: aliceblue;
+	color:  black;
+	width: 150px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+.c2-position {
+	display: flex;
+}
+.c2 {
+	width: 50%;
+	height: 200px;
+}
+.color1 {
+	background-color: rgb(77, 253, 145);
+}
+
+.color2 {
+	background-color: salmon;
+}

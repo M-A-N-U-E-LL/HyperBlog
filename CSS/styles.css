@@ -44,3 +44,23 @@ a {
 .color2 {
 	background-color: salmon;
 }
+
+.caja-container {
+	display: flex;
+}
+
+.caja {
+	width: 40%;
+	height: 200px;
+	margin: 0;
+}
+
+.cc1 {
+	background-color: coral;
+}
+.cc2 {
+	background-color: lightslategray;
+}
+.cc3 {
+	background-color: paleturquoise;
+}

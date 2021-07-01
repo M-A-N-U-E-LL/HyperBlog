@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .c1 {
-	background-color: blue;
+	background-color: rgb(187, 187, 255);
 	height: 200px;
 	text-align: center;
 }
@@ -12,6 +12,7 @@
 h1 {
 	color: white;
 	padding: 50px 0 20px 0;
+	font-size: 40px;
 }
 div {
 	width: 300px;
@@ -38,11 +39,11 @@ a {
 	height: 200px;
 }
 .color1 {
-	background-color: rgb(77, 253, 145);
+	background-color: rgb(136, 255, 181);
 }
 
 .color2 {
-	background-color: salmon;
+	background-color: rgb(255, 154, 143);
 }
 
 .caja-container {
@@ -56,11 +57,11 @@ a {
 }
 
 .cc1 {
-	background-color: coral;
+	background-color: rgb(255, 142, 101);
 }
 .cc2 {
-	background-color: lightslategray;
+	background-color: rgb(153, 204, 255);
 }
 .cc3 {
-	background-color: paleturquoise;
+	background-color: rgb(198, 255, 255);
 }

@@ -4,15 +4,15 @@
 	box-sizing: border-box;
 }
 .c1 {
-	background-color: rgb(187, 187, 255);
-	height: 200px;
+	background-color: rgb(24, 24, 204);
+	height: 250px;
 	text-align: center;
 }
 
 h1 {
 	color: white;
 	padding: 50px 0 20px 0;
-	font-size: 40px;
+	font-size: 45px;
 }
 div {
 	width: 300px;
@@ -36,14 +36,14 @@ a {
 }
 .c2 {
 	width: 50%;
-	height: 200px;
+	height: 230px;
 }
 .color1 {
-	background-color: rgb(136, 255, 181);
+	background-color: rgb(51, 255, 85);
 }
 
 .color2 {
-	background-color: rgb(255, 154, 143);
+	background-color: rgb(250, 180, 114);
 }
 
 .caja-container {
@@ -52,16 +52,16 @@ a {
 
 .caja {
 	width: 40%;
-	height: 200px;
+	height: 220px;
 	margin: 0;
 }
 
 .cc1 {
-	background-color: rgb(255, 142, 101);
+	background-color: rgb(255, 99, 43);
 }
 .cc2 {
-	background-color: rgb(153, 204, 255);
+	background-color: rgb(65, 119, 173);
 }
 .cc3 {
-	background-color: rgb(198, 255, 255);
+	background-color: rgb(116, 253, 253);
 }

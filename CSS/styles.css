@@ -68,8 +68,8 @@ a {
 
 body
 {
-    background: #1e1f24;
-    color: #333;
+    background: #eaebf3;
+    color: rgb(15, 12, 12);
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -119,4 +119,15 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: 37488b;
+	color: white;
+	width: 70%;
+	height: 50px;
+	margin: 0 auto;
 }

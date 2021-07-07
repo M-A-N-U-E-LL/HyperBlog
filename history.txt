@@ -16,4 +16,5 @@ Vamos por el tercer commit...
 */
 
 
-NewUserDev se unió al proyecto.
+NewUserDev se unió al proyecto
+NewUserDev edité nuevamente el archivo.
